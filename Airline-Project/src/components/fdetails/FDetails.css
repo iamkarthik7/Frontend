@@ -1,0 +1,42 @@
+/* #table2{
+    color:darkgray;
+    background-color: white;
+    margin: 0px 30px ;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color:orangered;
+    text-shadow: 2px 2px white;
+    font-size: 40px;
+    margin-top: 20px;
+}
+#table2 th{
+    color:red;
+    font-size: 18px;
+
+}
+.pagination> li>a{
+    border: 1px solid black;
+    padding: 5px 10px;
+    outline: none;
+    cursor: pointer;
+    border-style: double;
+    align-items: center;
+}
+.pagination{
+    color:red;
+}
+.pagination> :active>a{
+    background-color: green;
+    border-color: green;
+    color: red;
+}
+#navbar7{
+    margin-top: 290px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+} */
+

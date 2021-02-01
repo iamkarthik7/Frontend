@@ -1,0 +1,22 @@
+ #Paymentform{
+     background-color: whitesmoke;
+     padding: 30px;
+     border: darkgrey 1px solid;
+     margin: 20px 100px 0px 120px;
+     height: 500px;
+ }
+ #flexpayment{
+     display: flex;
+ }
+ #paymenthead{
+     color: red;
+ }
+ #payflex{
+     display: flex;
+ }
+ #payimg{
+     height: 400px;
+     width: 500px;
+     margin-right: 120px;
+     margin-top: 50px;
+ }

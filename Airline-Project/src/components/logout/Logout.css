@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#loginform{
+    margin: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: solid darkgray 1px;
+    padding:40px;
+    background-color: rgb(0,0,0,0.5)
+}
+#logidhead{
+    margin-left: 0px;
+    padding-bottom: 15px;
+    color: orangered;
+}
+#loginbtn{
+    margin-left: 200px;
+    padding-left: 20px;
+    padding-right: 30px;
+    color: darkgrey;
+}

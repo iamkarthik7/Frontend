@@ -1,0 +1,105 @@
+
+#head1{
+    color: red;
+    font-size: 45px;
+    text-align: center;
+    font-weight: bolder;
+    text-shadow: 2px 2px hsl(0, 1%, 39%);
+    margin: 15px 15px;
+}
+
+#homepara{
+    margin-left: 50px;
+    margin-right: 30px;
+    background-color: transparent;
+}
+
+#flex1{
+    display: flex;
+}
+#hform{
+    margin-top: 70px;
+    margin-right: 50px;
+    border: darkgrey 1px solid ;
+    padding: 30px;
+    padding-top: 20px;
+    background-color: whitesmoke;
+    height: 370px;
+}
+#card1{
+    padding-left: 750px;
+    margin: 50px;
+    background-color: whitesmoke;
+}
+#himage{
+    margin-top: 15px;
+    height: 320px;
+    margin-left: 60px;
+   width: 780px;
+   background-color: transparent;
+}
+#navbar3{
+    margin-top: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: whitesmoke;
+}
+#link1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+#hbtn{
+    padding: 5px 30px ;
+    margin-right:110px;
+    color: black;
+}
+#imgflex{
+    display: flex;
+}
+#hover:hover{
+   color: red;
+}
+#kq{
+    height: 60px;
+    margin: 0px 10px;
+}
+#kq1{
+    height:30px;
+    margin: 0px 5px;
+}
+#our{
+    border: darkgray 1px solid;
+    margin:30px;
+}
+#our img{
+    margin-top: -50px;
+    height: 95px;
+}
+#display{
+    display: flex;
+}
+#our .card{
+    color:red;
+    box-shadow: 2px 2px 5px black;
+    height: 290px;
+    background-color: transparent;
+}
+#our .card p{
+    font-weight: 100px;
+    color: black;
+}
+#our .card:hover{
+    background-color:white;
+    color: red;
+    border-radius: 3px;
+    border: none;
+    box-shadow: 2px 2px 5px red;
+}
+#linkkk{
+    text-decoration: none;
+    color: black;
+}
+#linkkk:hover{
+    color:deeppink;
+}

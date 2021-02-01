@@ -1,0 +1,39 @@
+ #loginform{
+    margin: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: solid darkgray 1px;
+    padding:40px;
+    background-color: whitesmoke;
+    height: 380px;
+}
+#logidhead{
+    margin-left: 0px;
+    color: red;
+    padding-bottom: 15px;
+}
+#loginbtn{
+    margin-left: 165px;
+    padding: 7px 30px;
+}
+#navbar4{
+    margin-top: 50px;
+    padding: 0px 5px;
+}
+#kqcan
+{
+    height: 35px;
+    margin-right: 3px;
+} 
+#table3{
+    margin: 20px 100px 0px 100px;
+    background-color: whitesmoke;
+}
+#table3 th{
+    color: red;
+}
+#ticcan{
+    text-align: center;
+    text-shadow: 1px 1px darkgray;
+    color: red;
+}

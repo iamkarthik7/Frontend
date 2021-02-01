@@ -1,0 +1,52 @@
+#reghead{
+    color: red;
+    text-align: center;
+    padding-bottom: 15px;
+}
+#formreg{
+    margin: 40px;
+    padding: 20px;
+    background-color: whitesmoke;
+    border: darkgrey 1px solid;
+    height: 550px;
+}
+#firstline{
+    display: flex;
+}
+#secondline{
+    display: flex;
+    margin-top: 15px;
+   
+}
+#thirdline{
+    display: flex;
+    margin-top: 15px;
+    
+}
+#fourthline{
+    display: flex;
+    margin-top: 15px;
+}
+
+#btn1{
+    margin-top: 20px;
+    margin-left: 910px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color: black;
+}
+#reglink{
+    margin-left: 700px;
+}
+.form-control{
+    background-color: transparent;
+}
+#hbtn{
+    margin-top: 15px;
+    margin-left: 120px;
+}
+#rdate{
+    margin-right: 15px;
+}

@@ -1,0 +1,169 @@
+#flightform{
+    border: darkgrey 1px solid;
+    margin: 60px 30px 0px 40px;
+    padding:30px 50px;
+    background-color: whitesmoke;
+    height: 480px;
+    width: 400px;
+}
+#flex2{
+    display: flex;
+}
+.form-control{
+    margin-right: 250px;
+}
+#flight{
+    color: red;
+}
+#searchflight{
+    margin: 15px 0px;
+    margin-left: 150px;
+    background-color: transparent;
+    color: black;
+}
+#canclepara{
+    text-align: center;
+}
+#hbtn{
+    color: black;
+margin-right: 100px;
+    
+}
+
+#table5{
+    color:darkgray;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 32px;
+    width: 850px;
+}
+
+#table5 th{
+    color:red;
+    font-size: 15px;
+
+}
+.pagination> li>a{
+    border: 1px solid black;
+    padding: 5px 10px;
+    outline: none;
+    cursor: pointer;
+    border-style: double;
+    align-items: center;
+}
+.pagination{
+    color:red;
+}
+.pagination> :active>a{
+    background-color: green;
+    border-color: green;
+    color: red;
+} 
+#bookform{
+    height: 280px;
+    color: black;
+    background-color: whitesmoke;
+}
+#formbook{
+    color: black;
+}
+#bbtn{
+    margin-top: 32px;
+    margin-left: 50px;
+    padding: 6px 50px;
+    color:black;
+}
+  #flihed{
+color: red;
+text-shadow: 2px 2px darkgray;
+text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #flightform{
+    border: darkgrey 1px solid;
+    margin: 30px 130px 0px 70px;
+    padding:30px 50px;
+    background-color: whitesmoke;
+    height: 500px;
+}
+#flex2{
+    display: flex;
+}
+#flightimg{
+    margin: 70px 0px;
+    margin-top: 100px;
+}
+.form-control{
+    margin-right: 250px;
+}
+#flight{
+    color: red;
+}
+#searchflight{
+    margin: 15px 0px;
+    margin-left: 150px;
+    background-color: transparent;
+    color: black;
+}
+#canclepara{
+    text-align: center;
+}
+#hbtn{
+    color: black;
+}
+
+#table2{
+    margin:30px;
+}
+#table2{
+    color:darkgray;
+    background-color: whitesmoke;
+    margin: 0px 30px ;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#table2 th{
+    color:red;
+    font-size: 18px;
+
+}
+.pagination> li>a{
+    border: 1px solid black;
+    padding: 5px 10px;
+    outline: none;
+    cursor: pointer;
+    border-style: double;
+    align-items: center;
+}
+.pagination{
+    color:red;
+}
+.pagination> :active>a{
+    background-color: green;
+    border-color: green;
+    color: red;
+} 
+
+
+ */
